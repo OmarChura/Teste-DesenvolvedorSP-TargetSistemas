@@ -1,0 +1,8 @@
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\5invertirString\InverterString\InverterString\bin\Debug\InverterString.exe.config
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\5invertirString\InverterString\InverterString\bin\Debug\InverterString.exe
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\5invertirString\InverterString\InverterString\bin\Debug\InverterString.pdb
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\5invertirString\InverterString\InverterString\obj\Debug\InverterString.csproj.AssemblyReference.cache
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\5invertirString\InverterString\InverterString\obj\Debug\InverterString.csproj.SuggestedBindingRedirects.cache
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\5invertirString\InverterString\InverterString\obj\Debug\InverterString.csproj.CoreCompileInputs.cache
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\5invertirString\InverterString\InverterString\obj\Debug\InverterString.exe
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\5invertirString\InverterString\InverterString\obj\Debug\InverterString.pdb

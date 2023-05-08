@@ -1,0 +1,15 @@
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\2Fibonacci-verificando_numero\FibonacciVerificarNumero\FibonacciVerificarNumero\bin\Debug\net6.0\FibonacciVerificarNumero.exe
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\2Fibonacci-verificando_numero\FibonacciVerificarNumero\FibonacciVerificarNumero\bin\Debug\net6.0\FibonacciVerificarNumero.deps.json
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\2Fibonacci-verificando_numero\FibonacciVerificarNumero\FibonacciVerificarNumero\bin\Debug\net6.0\FibonacciVerificarNumero.runtimeconfig.json
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\2Fibonacci-verificando_numero\FibonacciVerificarNumero\FibonacciVerificarNumero\bin\Debug\net6.0\FibonacciVerificarNumero.dll
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\2Fibonacci-verificando_numero\FibonacciVerificarNumero\FibonacciVerificarNumero\bin\Debug\net6.0\FibonacciVerificarNumero.pdb
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\2Fibonacci-verificando_numero\FibonacciVerificarNumero\FibonacciVerificarNumero\obj\Debug\net6.0\FibonacciVerificarNumero.csproj.AssemblyReference.cache
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\2Fibonacci-verificando_numero\FibonacciVerificarNumero\FibonacciVerificarNumero\obj\Debug\net6.0\FibonacciVerificarNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\2Fibonacci-verificando_numero\FibonacciVerificarNumero\FibonacciVerificarNumero\obj\Debug\net6.0\FibonacciVerificarNumero.AssemblyInfoInputs.cache
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\2Fibonacci-verificando_numero\FibonacciVerificarNumero\FibonacciVerificarNumero\obj\Debug\net6.0\FibonacciVerificarNumero.AssemblyInfo.cs
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\2Fibonacci-verificando_numero\FibonacciVerificarNumero\FibonacciVerificarNumero\obj\Debug\net6.0\FibonacciVerificarNumero.csproj.CoreCompileInputs.cache
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\2Fibonacci-verificando_numero\FibonacciVerificarNumero\FibonacciVerificarNumero\obj\Debug\net6.0\FibonacciVerificarNumero.dll
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\2Fibonacci-verificando_numero\FibonacciVerificarNumero\FibonacciVerificarNumero\obj\Debug\net6.0\refint\FibonacciVerificarNumero.dll
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\2Fibonacci-verificando_numero\FibonacciVerificarNumero\FibonacciVerificarNumero\obj\Debug\net6.0\FibonacciVerificarNumero.pdb
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\2Fibonacci-verificando_numero\FibonacciVerificarNumero\FibonacciVerificarNumero\obj\Debug\net6.0\FibonacciVerificarNumero.genruntimeconfig.cache
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\2Fibonacci-verificando_numero\FibonacciVerificarNumero\FibonacciVerificarNumero\obj\Debug\net6.0\ref\FibonacciVerificarNumero.dll

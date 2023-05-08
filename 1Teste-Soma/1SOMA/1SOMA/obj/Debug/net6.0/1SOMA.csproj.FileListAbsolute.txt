@@ -1,0 +1,15 @@
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\1Teste-Soma\1SOMA\1SOMA\bin\Debug\net6.0\1SOMA.exe
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\1Teste-Soma\1SOMA\1SOMA\bin\Debug\net6.0\1SOMA.deps.json
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\1Teste-Soma\1SOMA\1SOMA\bin\Debug\net6.0\1SOMA.runtimeconfig.json
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\1Teste-Soma\1SOMA\1SOMA\bin\Debug\net6.0\1SOMA.dll
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\1Teste-Soma\1SOMA\1SOMA\bin\Debug\net6.0\1SOMA.pdb
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\1Teste-Soma\1SOMA\1SOMA\obj\Debug\net6.0\1SOMA.csproj.AssemblyReference.cache
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\1Teste-Soma\1SOMA\1SOMA\obj\Debug\net6.0\1SOMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\1Teste-Soma\1SOMA\1SOMA\obj\Debug\net6.0\1SOMA.AssemblyInfoInputs.cache
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\1Teste-Soma\1SOMA\1SOMA\obj\Debug\net6.0\1SOMA.AssemblyInfo.cs
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\1Teste-Soma\1SOMA\1SOMA\obj\Debug\net6.0\1SOMA.csproj.CoreCompileInputs.cache
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\1Teste-Soma\1SOMA\1SOMA\obj\Debug\net6.0\1SOMA.dll
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\1Teste-Soma\1SOMA\1SOMA\obj\Debug\net6.0\refint\1SOMA.dll
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\1Teste-Soma\1SOMA\1SOMA\obj\Debug\net6.0\1SOMA.pdb
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\1Teste-Soma\1SOMA\1SOMA\obj\Debug\net6.0\1SOMA.genruntimeconfig.cache
+C:\Users\henry\Desktop\Teste-DesenvolvedorSP\1Teste-Soma\1SOMA\1SOMA\obj\Debug\net6.0\ref\1SOMA.dll
