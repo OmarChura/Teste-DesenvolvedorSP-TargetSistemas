@@ -16,7 +16,7 @@ namespace FaturamentoDiarioDistribuidora
             FaturamentoDiarioMes faturamentoMenorDiario = new FaturamentoDiarioMes();
             FaturamentoDiarioMes faturamentoMaiorDiario = new FaturamentoDiarioMes();
             decimal mediaMensal = 0;
-            int countDiasMedia = 0;
+            int countDias = 0;
             var jsonString = "";
 
             StreamReader sr = new StreamReader("../../dados.json");
@@ -26,7 +26,17 @@ namespace FaturamentoDiarioDistribuidora
 
             foreach (FaturamentoDiarioMes s in faturamento)
             {
-                if (s.Valor < faturamentoMenorDiario.Valor)
+                if (s.Valor != 0)
+                {
+                    faturamentoMenorDiario = s;
+                    break;
+                }
+                
+            }
+
+            foreach (FaturamentoDiarioMes s in faturamento)
+            {
+                if (s.Valor != 0 && s.Valor < faturamentoMenorDiario.Valor)
                 {
                     faturamentoMenorDiario = s;
                 }
@@ -37,24 +47,24 @@ namespace FaturamentoDiarioDistribuidora
                 if (s.Valor != 0)
                 {
                     mediaMensal = mediaMensal + s.Valor;
-                    countDiasMedia++;
+                    countDias++;
                 }
             }
-            mediaMensal = mediaMensal / countDiasMedia;
+            mediaMensal = mediaMensal / countDias;
 
-            countDiasMedia = 0;
+            countDias = 0;
             foreach (FaturamentoDiarioMes s in faturamento)
             {
                 
                 if(s.Valor > mediaMensal)
                 {
-                    countDiasMedia++;
+                    countDias++;
                 }
             }
               
             Console.WriteLine("O menor valor de faturamento ocorrido em um dia do mês é : " + faturamentoMenorDiario.Valor);
             Console.WriteLine("O maior valor de faturamento ocorrido em um dia do mês é : " + faturamentoMaiorDiario.Valor);
-            Console.WriteLine("Número de dias no mês em que o valor de faturamento diário foi superior à média mensal : " + countDiasMedia);
+            Console.WriteLine("Número de dias no mês em que o valor de faturamento diário foi superior à média mensal : " + countDias);
 
             Console.ReadKey();
         }
