@@ -11,7 +11,9 @@ namespace FaturamentoMensalDistribuidoraPorEstado
     {
         static void Main(string[] args)
         {
+            
             List<FaturamentoEstado> faturamentos = new List<FaturamentoEstado>();
+            //prenchendo a lista de objetos 
             FaturamentoEstado SP = new FaturamentoEstado("SP",67836.43);
             FaturamentoEstado RJ = new FaturamentoEstado("RJ", 36678.66);
             FaturamentoEstado MG = new FaturamentoEstado("MG", 29229.88);
@@ -22,15 +24,18 @@ namespace FaturamentoMensalDistribuidoraPorEstado
             faturamentos.Add(MG);
             faturamentos.Add(ES);
             faturamentos.Add(Outros);
-
+            ///-------------------------------------------------------
             double porcentageTotal = 1.0;
             double porcentage = 0;
             double valorTotal = 0;
 
-            valorTotal = SP.Valor + RJ.Valor + MG.Valor + ES.Valor + Outros.Valor;
+            foreach(FaturamentoEstado faturamento in faturamentos)
+            {
+                valorTotal = valorTotal + faturamento.Valor;
+            }
+
             for (int i = 0; i < faturamentos.Count(); i++)
             {
-                porcentage = 0;
                 porcentage = ((faturamentos[i].Valor * porcentageTotal) / valorTotal) * 100;
 
                 Console.WriteLine("percentual do estado de " + faturamentos[i].Nome + ": " + porcentage.ToString("F") + " %");
